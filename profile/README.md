@@ -13,7 +13,6 @@ Unum Science adapts the search, string & numeric engines of [Unum](https://githu
 Its tools run the classical algorithms of each field exactly, on GPUs and every CPU core, and its atlases publish what they compute in the open.
 
 - __[AffineGaps](https://github.com/unum-science/AffineGaps)__: exact sequence alignment & RNA folding with traceback on GPUs.
-- __[SmallField](https://github.com/unum-science/SmallField)__: 3D conformers from SMILES on GPUs, one CUDA warp per molecule.
 - __[FasterFASTA](https://github.com/unum-science/FasterFASTA)__: FASTA & FASTQ parsing, sorting & deduplication on every core.
 - __[USearchMolecules](https://github.com/unum-science/USearchMolecules)__: open atlas of 7B+ molecules, proteins & antibodies.
 - __[USearchWiki](https://github.com/unum-science/USearchWiki)__: open atlas of wiki & scholarly text with embeddings & indexes.
